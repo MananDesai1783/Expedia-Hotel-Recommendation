@@ -25,7 +25,7 @@ These approaches included: i) utilizing a dataset of randomly selected 50,000 un
 - Train & Testing
 
 ## Results
-![Results](https://github.com//Expedia-Hotel-Recommendation/blob/main/images/results.jpg)
+![Results](https://github.com/MananDesai1783/Expedia-Hotel-Recommendation/blob/main/Images/results.jpg)
 
 
 
